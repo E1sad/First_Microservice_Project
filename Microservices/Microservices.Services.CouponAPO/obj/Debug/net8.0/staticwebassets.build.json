@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Tq3KGEQQe33QGxsW6uHHnk7g1HocHbwZ2uurWWno094=",
+  "Source": "Microservices.Services.CouponAPO",
+  "BasePath": "_content/Microservices.Services.CouponAPO",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
